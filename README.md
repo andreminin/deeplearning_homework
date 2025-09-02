@@ -4,7 +4,7 @@
 
 
 
-![Deep learning](Open Source Models with Hugging Face/labeled_image.PNG)
+![Deep learning](Open_Source_Models_with_Hugging_Face/labeled_image.PNG)
 
 
 
