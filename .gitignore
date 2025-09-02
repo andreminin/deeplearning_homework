@@ -248,3 +248,7 @@ __marimo__/
 /How Diffusion Models Work/weights/
 /Building Multimodal Search and RAG/source/
 /Advanced Retrieval for AI with Chroma/umap.embedding
+/LangChain Chat with Your Data/docs/chroma-collections.parquet
+/LangChain Chat with Your Data/docs/chroma-embeddings.parquet
+/Building Multimodal Search and RAG/digit-recognizer/test.csv
+/Building Multimodal Search and RAG/digit-recognizer/train.csv
