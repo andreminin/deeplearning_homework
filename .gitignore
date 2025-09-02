@@ -205,3 +205,46 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/.gitignore
+/.idea/deeplearning_homework.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/How Diffusion Models Work/weights/context_model_trained.pth
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/added_tokens.json
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/CODE_OF_CONDUCT.md
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/config.json
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/configuration_phi3.py
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/generation_config.json
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/LICENSE
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/model.safetensors.index.json
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/model-00001-of-00002.safetensors
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/model-00002-of-00002.safetensors
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/modeling_phi3.py
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/NOTICE.md
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/README.md
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/sample_finetune.py
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/SECURITY.md
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/special_tokens_map.json
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/tokenizer.json
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/tokenizer.model
+/How Transformer LLMs Work/models/microsoft/Phi-3-mini-4k-instruct/tokenizer_config.json
+/Intro to Federated Learning/MNIST_data/MNIST/raw/t10k-images-idx3-ubyte
+/Intro to Federated Learning/MNIST_data/MNIST/raw/t10k-images-idx3-ubyte.gz
+/Intro to Federated Learning/MNIST_data/MNIST/raw/t10k-labels-idx1-ubyte
+/Intro to Federated Learning/MNIST_data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+/Intro to Federated Learning/MNIST_data/MNIST/raw/train-images-idx3-ubyte
+/Intro to Federated Learning/MNIST_data/MNIST/raw/train-images-idx3-ubyte.gz
+/Intro to Federated Learning/MNIST_data/MNIST/raw/train-images-idx3-ubyte.KrGn-Pxd.gz.part
+/Intro to Federated Learning/MNIST_data/MNIST/raw/train-images-idx3-ubyte.XC1LVHdF.part
+/Intro to Federated Learning/MNIST_data/MNIST/raw/train-labels-idx1-ubyte
+/Intro to Federated Learning/MNIST_data/MNIST/raw/train-labels-idx1-ubyte.gz
+/Building Multimodal Search and RAG/source/
+/Intro to Federated Learning/MNIST_data/
+/Post-training of LLMs/models/banghua/
+/Post-training of LLMs/models/HuggingFaceTB/
+/Post-training of LLMs/models/Qwen/
+/How Diffusion Models Work/weights/
+/Building Multimodal Search and RAG/source/
+/Advanced Retrieval for AI with Chroma/umap.embedding
