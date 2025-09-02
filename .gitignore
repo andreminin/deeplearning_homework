@@ -247,7 +247,7 @@ __marimo__/
 /Post-training of LLMs/models/Qwen/
 /How Diffusion Models Work/weights/
 /Building Multimodal Search and RAG/source/
-/Advanced Retrieval for AI with Chroma/umap.embedding
+/Advanced_Retrieval_for_AI_with_Chroma/umap.embedding
 /LangChain Chat with Your Data/docs/chroma-collections.parquet
 /LangChain Chat with Your Data/docs/chroma-embeddings.parquet
 /Building Multimodal Search and RAG/digit-recognizer/test.csv

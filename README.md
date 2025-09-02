@@ -25,35 +25,35 @@ Each course is organized into its own folder:
 ```
 deeplearning_homework/
 │
-├── ACP: Agent Communication Protocol/
-├── Advanced Retrieval for AI with Chroma/
-├── AI Python For Beginners/
-├── Attention in Transformers  Concepts and Code in PyTorch/
-├── Building AI Voice Agents for Production/
-├── Building Code Agents with Hugging Face smolagents/
-├── Building Multimodal Search and RAG/
-├── ChatGPT Prompt Engineering for Developers/
-├── Federated Fine-tuning of LLMs with Private Data/
-├── Finetuning Large Language Models/
-├── Functions  Tools and Agents with LangChain/
-├── How Diffusion Models Work/
-├── How Transformer LLMs Work/
-├── Introducing Multimodal Llama 3.2/
-├── Intro to Federated Learning/
-├── Knowledge Graphs for RAG/
-├── LangChain Chat with Your Data/
-├── LangChain for LLM Application Development/
-├── MCP Build Rich-Context AI Apps with Anthropic/
-├── Open Source Models with Hugging Face/
-├── Post-training of LLMs/
-├── Prompt-Compression-and-Query-optimization/
-├── Quantization Fundamentals with Hugging Face/
-├── Reinforcement Fine-Tuning LLMs With GRPO/
-├── Reinforcement Learning From Human Feedback/
+├── ACP_Agent_Communication_Protocol/
+├── Advanced_Retrieval_for_AI_with_Chroma/
+├── AI_Python_For_Beginners/
+├── Attention_in_Transformers_Concepts_and_Code_in_PyTorch/
+├── Building_AI_Voice_Agents_for_Production/
+├── Building_Code_Agents_with_Hugging_Face_smolagents/
+├── Building_Multimodal_Search_and_RAG/
+├── ChatGPT_Prompt_Engineering_for_Developers/
+├── Federated_Fine-tuning_of_LLMs_with_Private_Data/
+├── Finetuning_Large_Language_Models/
+├── Functions_Tools_and_Agents_with_LangChain/
+├── How_Diffusion_Models_Work/
+├── How_Transformer_LLMs_Work/
+├── Introducing_Multimodal_Llama_3.2/
+├── Intro_to_Federated_Learning/
+├── Knowledge_Graphs_for_RAG/
+├── LangChain_Chat_with_Your_Data/
+├── LangChain_for_LLM_Application_Development/
+├── MCP_Build_Rich-Context_AI_Apps_with_Anthropic/
+├── Open_Source_Models_with_Hugging_Face/
+├── Post-training_of_LLMs/
+├── Prompt_Compression_and_Query_optimization/
+├── Quantization_Fundamentals_with_Hugging_Face/
+├── Reinforcement_Fine-Tuning_LLMs_With_GRPO/
+├── Reinforcement_Learning_From_Human_Feedback/
 ...
 ... more lessons 
 ...
-└── Vector Databases: from Embeddings to Applications/
+└── Vector_Databases_from_Embeddings_to_Applications/
 ```
 
 Each directory contains:
