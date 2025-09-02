@@ -1,4 +1,12 @@
-# Deeplearning short courses homework
+# Deeplearning.AI courses homework
+
+
+
+
+
+![Deep learning](Open Source Models with Hugging Face/labeled_image.PNG)
+
+
 
 This repository contains Jupyter notebooks from past trainings on [DeepLearning.AI](https://learn.deeplearning.ai), adapted to run on a **local environment**.  
 Some notebooks originally relied on cloud APIs (e.g., OpenAI, Cohere, Anthropic). These versions were modified to support **local LLM providers** such as:
